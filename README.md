@@ -119,6 +119,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
   * Camille Weins: [READMEs and Ethics](https://medium.com/@camilleweins/readmes-and-ethics-cbae8e77ffcd)
   * Ahmad Arshad: [Social awareness in OSS](https://dev1.ed-projects.nyu.edu/geotools/2018/09/25/ossp-week-3-reflections/)
   * Luna Olavarría Gallegos: [Code of Conduct](https://wp.nyu.edu/luna/2018/09/22/code-of-conduct-reading-response/)
+  * James Hosken: [Benevolent D\*\*\*tator](https://generallyplayful.com/itp/oss/benevolent-dicktator/)
 
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
